@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+C:\Users\Damian\source\repos\DLL1\DLL1\dllmain.cpp(24,1): warning C4273: 'fibonacci_init': inconsistent dll linkage
+C:\Users\Damian\source\repos\DLL1\DLL1\MathLib.h(10,33): message : see previous definition of 'fibonacci_init'
+C:\Users\Damian\source\repos\DLL1\DLL1\dllmain.cpp(33,1): warning C4273: 'fibonacci_next': inconsistent dll linkage
+C:\Users\Damian\source\repos\DLL1\DLL1\MathLib.h(12,33): message : see previous definition of 'fibonacci_next'
+C:\Users\Damian\source\repos\DLL1\DLL1\dllmain.cpp(53,1): warning C4273: 'fibonacci_current': inconsistent dll linkage
+C:\Users\Damian\source\repos\DLL1\DLL1\MathLib.h(14,47): message : see previous definition of 'fibonacci_current'
+C:\Users\Damian\source\repos\DLL1\DLL1\dllmain.cpp(58,1): warning C4273: 'fibonacci_index': inconsistent dll linkage
+C:\Users\Damian\source\repos\DLL1\DLL1\MathLib.h(16,37): message : see previous definition of 'fibonacci_index'
+  DLL1.vcxproj -> C:\Users\Damian\source\repos\DLL1\Debug\DLL1.dll
