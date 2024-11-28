@@ -1,0 +1,6 @@
+﻿  Booleans_c++.cpp
+C:\Users\Damian\source\repos\Booleans_c++\Booleans_c++\Booleans_c++.cpp(124,1): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\Damian\source\repos\Booleans_c++\Booleans_c++\Booleans_c++.cpp(191,14): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Damian\source\repos\Booleans_c++\Booleans_c++\Booleans_c++.cpp(203,14): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Damian\source\repos\Booleans_c++\Booleans_c++\Booleans_c++.cpp(215,14): warning C4018: '<=': signed/unsigned mismatch
+  Booleans_c++.vcxproj -> C:\Users\Damian\source\repos\Booleans_c++\x64\Debug\Booleans_c++.exe

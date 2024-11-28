@@ -1,0 +1,5 @@
+﻿  Booleans_c++.cpp
+C:\Users\Damian\source\repos\Booleans_c++\Booleans_c++\Booleans_c++.cpp(186,14): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Damian\source\repos\Booleans_c++\Booleans_c++\Booleans_c++.cpp(198,14): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Damian\source\repos\Booleans_c++\Booleans_c++\Booleans_c++.cpp(210,14): warning C4018: '<=': signed/unsigned mismatch
+  Booleans_c++.vcxproj -> C:\Users\Damian\source\repos\Booleans_c++\Debug\Booleans_c++.exe
